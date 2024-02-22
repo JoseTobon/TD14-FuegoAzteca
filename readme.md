@@ -16,6 +16,7 @@ Este repositorio contiene la propuesta de implementación de una solución Cloud
 ## Contacto
 José Angel Tobón - A01411655@tec.mx
 Kevin Meza - A01639770@tec.mx
+Jesús Ramírez - A01639933@tec.mx
 
 ---
 
