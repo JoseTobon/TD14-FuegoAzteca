@@ -7,11 +7,11 @@ Este repositorio contiene la propuesta de implementación de una solución Cloud
 1. **Amazon QuickSight**: Una herramienta de análisis de datos y visualización de AWS que permite crear dashboards interactivos y reportes paginados. QuickSight es una solución cloud, low-code y escalable.
 2. **Odoo BI**: Aplicación de Odoo disponible para KPI Analysis, Efficient Data Collection, Data Manipulation, Dashboard creation y Forecasts.
 
-(## Beneficios
+<!---## Beneficios
 - **Visualización de Datos**: QuickSight permite crear gráficos, tablas y reportes que muestran el rendimiento de las ventas, los productos más vendidos, los clientes más rentables, entre otros.
 - **Análisis en Tiempo Real**: QuickSight ofrece acceso a los datos en tiempo real, lo que permite tomar decisiones basadas en información actualizada.
 - **Ahorro de Costos**: Al ser una solución cloud, QuickSight no requiere inversión en infraestructura ni mantenimiento.
-- **Integración con Odoo y Amazon MWS**: QuickSight se integra fácilmente con las fuentes de datos existentes.)
+- **Integración con Odoo y Amazon MWS**: QuickSight se integra fácilmente con las fuentes de datos existentes.)--->
 
 ## Contacto
 José Angel Tobón - A01411655@tec.mx
